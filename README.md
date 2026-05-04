@@ -1,3 +1,2 @@
 # Algorithm
-# 알고리즘 내용 정리
-# Python으로
+알고리즘 내용 정리 - by Python

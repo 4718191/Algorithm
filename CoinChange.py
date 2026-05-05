@@ -15,5 +15,5 @@ def CoinChange(W):
     n1 += 1
   return n500 + n100 + n50 + n10 + n1
 
-n = int(input('거스름돈: '))
-print(CoinChange(n))
+n = int(input('거스름돈 액수: '))
+print(f'동전 개수는 {CoinChange(n)}')
